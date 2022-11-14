@@ -59,12 +59,12 @@ div {
 }
 
 div:nth-child(odd) {
-  background-color: rgb(148, 147, 144);
+  background-color: rgb(197, 196, 193);
 }
 
 nav {
   border: black solid 1px;
-  background-color: antiquewhite;
+  background-color: rgba(250, 235, 215, 0.493);
   border-radius: 15px;
 }
 
