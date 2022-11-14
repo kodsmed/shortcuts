@@ -58,6 +58,10 @@ div {
   flex-direction: column;
 }
 
+div::nth-child(odd) {
+  background-color: rgb(148, 147, 144);
+}
+
 nav {
   border: black solid 1px;
   background-color: antiquewhite;
