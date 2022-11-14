@@ -58,7 +58,7 @@ div {
   flex-direction: column;
 }
 
-div::nth-child(odd) {
+div:nth-child(odd) {
   background-color: rgb(148, 147, 144);
 }
 
